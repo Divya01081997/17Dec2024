@@ -1,2 +1,2 @@
 adding one line here
-update the file for git cronob
+update the file for git cronjob
